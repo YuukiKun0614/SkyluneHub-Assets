@@ -1,0 +1,546 @@
+{
+  "format": "skylune-official-assets-v1",
+  "version": "v1.0.0-fe40b1fd89e8",
+  "assets": [
+    {
+      "path": "Background_Texture/SH_Main_NightSky.png",
+      "file": "assets/Background_Texture/SH_Main_NightSky.png",
+      "bytes": 205865,
+      "sha256": "76dfe9d84c6f5662248b51f4757882c8b3870b944afd56bd5b886379e08926df"
+    },
+    {
+      "path": "Background_Texture/SH_Sidebar_NightSky.png",
+      "file": "assets/Background_Texture/SH_Sidebar_NightSky.png",
+      "bytes": 33709,
+      "sha256": "d5ed4a9da88c8c628f61cf06c4530553c01ae6c0be2168f56835e21c5b256a09"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/chevron.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/chevron.png",
+      "bytes": 478,
+      "sha256": "b1187331e55e14545dd06ff7986e672235262a86eaa46b1b95a08f5def8360d4"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/close.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/close.png",
+      "bytes": 667,
+      "sha256": "397c7c538be06e55f421b1e2e120e07ef397eb7f6c1ae6185ff7e9d9790d78a1"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/collapse.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/collapse.png",
+      "bytes": 478,
+      "sha256": "b1187331e55e14545dd06ff7986e672235262a86eaa46b1b95a08f5def8360d4"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/copy.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/copy.png",
+      "bytes": 1105,
+      "sha256": "6f2d6f51a6d25780f6ad1aaec2b802881d3cc290fe02c26967f30a0dd982e08c"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/favorite_off.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/favorite_off.png",
+      "bytes": 1512,
+      "sha256": "de80b58ffcc0bb0ed2c8e09a662b72516f01eed5e081edcef1c54d5e7c2c2ada"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/favorite_on.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/favorite_on.png",
+      "bytes": 1120,
+      "sha256": "081e05e3af56aa949aebb06f9fe44ef13d838f2ff3265f8d4fa5ac47a24ef08a"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/game.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/game.png",
+      "bytes": 1763,
+      "sha256": "8c0f75236b4b5853dfa47a085eb434ee2b63ed11a543fb3ec1999665446844cd"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/guest.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/guest.png",
+      "bytes": 1129,
+      "sha256": "61f8d2e9b2de5e8f381cf50cbb061a1f01523a2029a7ee2a756a65275466aed9"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/header_brand_icon.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/header_brand_icon.png",
+      "bytes": 2032,
+      "sha256": "e135f59d4d483288069e4d1ffa1e7fca91fb055745c8a0844ef3bc5a06cd2426"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/hub_brand_icon.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/hub_brand_icon.png",
+      "bytes": 2032,
+      "sha256": "e135f59d4d483288069e4d1ffa1e7fca91fb055745c8a0844ef3bc5a06cd2426"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/hub_logo.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/hub_logo.png",
+      "bytes": 2032,
+      "sha256": "e135f59d4d483288069e4d1ffa1e7fca91fb055745c8a0844ef3bc5a06cd2426"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/launcher_icon.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/launcher_icon.png",
+      "bytes": 2032,
+      "sha256": "e135f59d4d483288069e4d1ffa1e7fca91fb055745c8a0844ef3bc5a06cd2426"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/maximize.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/maximize.png",
+      "bytes": 921,
+      "sha256": "37c71a36a0f9a332c33b8a62e95798aa4e3fc52aea904a742e6dd8073fb4fe61"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/minimize.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/minimize.png",
+      "bytes": 284,
+      "sha256": "a0f6e016683b4562e37d1b390bd5d071653b8ad7af764dd3208cc92f9a6edb1c"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/reset.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/reset.png",
+      "bytes": 1454,
+      "sha256": "0753950e9ad344f5285b501b9ee5a7763fcd29ee7b12e41642f4cad3cbe3597a"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/resize.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/resize.png",
+      "bytes": 1061,
+      "sha256": "8119160e8335abcaa1d3822a88cf629072d07349c2e9dabbb681e82758069629"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/resize_active.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/resize_active.png",
+      "bytes": 750,
+      "sha256": "6f9318e62e990d956d3c82c0458159518e7a176e3cd1c2f06db4859aa7d683fd"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/search.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/search.png",
+      "bytes": 1314,
+      "sha256": "f0592f26f6b7da95ac8a022129eab354737d3a2a2fd3d0f1cf729d7e6d6994b7"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/settings.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/settings.png",
+      "bytes": 1914,
+      "sha256": "890a69f91f9c10658b9668f607086efc3c35af00c93623720e1c56e5ff4612e8"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/settings_item_audioSettings.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/settings_item_audioSettings.png",
+      "bytes": 1531,
+      "sha256": "83c6148fbd44966c5ef92385a78d51708729ec68bd7788c0109c272d22dedb4d"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/settings_item_config.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/settings_item_config.png",
+      "bytes": 1464,
+      "sha256": "f48706bd06d683f1bd4a16fb3285d1b116864257f512f0ceb4e1d90367bd18a6"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/settings_item_customLeaderboard.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/settings_item_customLeaderboard.png",
+      "bytes": 1098,
+      "sha256": "ae6c3c1d54877d3a0425b7c91de2e9cf885a4dc3076817b1f051e18eb8f223c8"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/settings_item_guiControls.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/settings_item_guiControls.png",
+      "bytes": 1208,
+      "sha256": "75fac455edd027ec6792cedeb7f3bb729338285ea819c696c9b315a96e6215c7"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/settings_item_guiFont.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/settings_item_guiFont.png",
+      "bytes": 1143,
+      "sha256": "3cca5b17edb6c6c5af84032cc982f5325e13928490d064c149f9b26a11f2861e"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/settings_item_guiWindow.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/settings_item_guiWindow.png",
+      "bytes": 1385,
+      "sha256": "4e1156a9f574ffaed60c3f71c78d34bea0d9a04b8d3e68e7cc12fe9152037ae6"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/settings_item_notificationSettings.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/settings_item_notificationSettings.png",
+      "bytes": 1189,
+      "sha256": "9758c2dc960cfc7fb21ef995557927dceb17704028dfa66d7a42f61e69d3e32b"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/settings_item_professionalUX.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/settings_item_professionalUX.png",
+      "bytes": 1545,
+      "sha256": "c3a0f8e62fc0bda85f98135b4c6681ab449c1678f069d5147fb627aa07120e8c"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/settings_item_screenBlur.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/settings_item_screenBlur.png",
+      "bytes": 1499,
+      "sha256": "1e322b906a23db392cfc3eef04c1e89fdd61c7e4ec93dae7910df6ddb4d12edf"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/settings_item_statusHud.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/settings_item_statusHud.png",
+      "bytes": 1548,
+      "sha256": "5efa8d850fbd5fd5a4f700a2abbaa16b2a5beadf70164e1bce53a528011c864d"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/status_fps.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/status_fps.png",
+      "bytes": 1091,
+      "sha256": "cfcb908576b4a3d33ca94fdab64c6769f6dd7ae869f8cc1c8e48b09824229416"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/status_on.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/status_on.png",
+      "bytes": 1113,
+      "sha256": "b2ba92ea36ade4b301bebefc963cadb8e40a8d1f92d88e4de51e7ced73aae1b2"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/status_ping.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/status_ping.png",
+      "bytes": 1146,
+      "sha256": "97395c066ad1cd878b657ab85f7115965bdde09f0595d730e0bc85b7cd4a4fa2"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/status_players.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/status_players.png",
+      "bytes": 1907,
+      "sha256": "cd80b7a1ee73535075bf03baaa072ebecd54b399d6f556696e620a2fe5172ec0"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/status_session.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/status_session.png",
+      "bytes": 1795,
+      "sha256": "abb6fc1dd273d03f13c6ab0cce0cbc89ad99229e4b9ad4cd2db5fab4fda7fd5a"
+    },
+    {
+      "path": "SH_Asset/Default_UI_Icon/status_toggle.png",
+      "file": "assets/SH_Asset/Default_UI_Icon/status_toggle.png",
+      "bytes": 478,
+      "sha256": "b1187331e55e14545dd06ff7986e672235262a86eaa46b1b95a08f5def8360d4"
+    },
+    {
+      "path": "SH_Asset/Section_Icon/aimbot.png",
+      "file": "assets/SH_Asset/Section_Icon/aimbot.png",
+      "bytes": 1698,
+      "sha256": "cd6815c61d3eda254b5a2940170b5c4fa78be47c5a9ac88583c18ee094927827"
+    },
+    {
+      "path": "SH_Asset/Section_Icon/esp.png",
+      "file": "assets/SH_Asset/Section_Icon/esp.png",
+      "bytes": 1583,
+      "sha256": "4378002c9c4b9c250eeae83157770d819328dcfd3c7bd1c2d35917549bc500b4"
+    },
+    {
+      "path": "SH_Asset/Section_Icon/home.png",
+      "file": "assets/SH_Asset/Section_Icon/home.png",
+      "bytes": 1070,
+      "sha256": "ed5aa94ecf96a69daf50493f15628e3c8484a2bce53b5e1c2b828537b3240c4e"
+    },
+    {
+      "path": "SH_Asset/Section_Icon/misc.png",
+      "file": "assets/SH_Asset/Section_Icon/misc.png",
+      "bytes": 1550,
+      "sha256": "fb22c71c9f58b28a9b92ddbc63e456782d5faa2e865a6376e286baab4f670fec"
+    },
+    {
+      "path": "SH_Asset/Section_Icon/rtx.png",
+      "file": "assets/SH_Asset/Section_Icon/rtx.png",
+      "bytes": 1600,
+      "sha256": "6dd5d13357f42c3a4330b27ebbb56e10065064799829a781cf0ae85ba5035489"
+    },
+    {
+      "path": "SH_Asset/Section_Icon/settings.png",
+      "file": "assets/SH_Asset/Section_Icon/settings.png",
+      "bytes": 1751,
+      "sha256": "86d6d573cf685565e9826dd18c59c208ae057a0706c3d7f4269e49b651886078"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/aimbot_controls/aimAdjustment.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/aimbot_controls/aimAdjustment.png",
+      "bytes": 1393,
+      "sha256": "40cb32c4d5db5e2b7a9bc97ec387c938f3c777f72cb1349531e044138fb546d5"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/aimbot_controls/aimAssistMode.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/aimbot_controls/aimAssistMode.png",
+      "bytes": 1393,
+      "sha256": "40cb32c4d5db5e2b7a9bc97ec387c938f3c777f72cb1349531e044138fb546d5"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/aimbot_controls/coreAim.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/aimbot_controls/coreAim.png",
+      "bytes": 1754,
+      "sha256": "8adcd4196ce404111d37721585db71897c506eaefbbbf99fcfcfb0b97522f14d"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/aimbot_controls/fovArrows.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/aimbot_controls/fovArrows.png",
+      "bytes": 1433,
+      "sha256": "daec8411ef7f73ed1f5cfe2af4bdb9cde5c53527ec4e6e745c98c22bb76d08e2"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/aimbot_controls/performance.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/aimbot_controls/performance.png",
+      "bytes": 1179,
+      "sha256": "d17074f7c355182ec09f2df4062d2fafff63346cf3ad52965b7d6aac734e701f"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/aimbot_controls/preview.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/aimbot_controls/preview.png",
+      "bytes": 1179,
+      "sha256": "d17074f7c355182ec09f2df4062d2fafff63346cf3ad52965b7d6aac734e701f"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/aimbot_controls/stability.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/aimbot_controls/stability.png",
+      "bytes": 1460,
+      "sha256": "40b2a42abf5af40b48bb0d5475e139e02b49e1a99c51e53c053bf267d42a4e12"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/aimbot_controls/targetFilters.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/aimbot_controls/targetFilters.png",
+      "bytes": 1108,
+      "sha256": "5e32190b6548613df865050920f9691b2e5e8909af2e2dbfef8a4d6b12b44687"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/aimbot_controls/targetHud.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/aimbot_controls/targetHud.png",
+      "bytes": 1136,
+      "sha256": "a1652ba742ec314b0ba559b0652156ea1fc71ddb032355c35abc84de2f31b791"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/aimbot_controls/teamCheck.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/aimbot_controls/teamCheck.png",
+      "bytes": 1453,
+      "sha256": "d58652f64bebedde68dc8736a3ab9ca13fa93e1d90f39148c75f8ca10b4f83cd"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/aimbot_controls/visuals.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/aimbot_controls/visuals.png",
+      "bytes": 1328,
+      "sha256": "06423ee6aaee7718a35d132b2f902a247bec87b63375e0a232fb4dc98d3564a7"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/esp_controls/geometry.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/esp_controls/geometry.png",
+      "bytes": 1443,
+      "sha256": "22274d8945978bd70ca33dc140f8587476e31b7682da06d20705b34db2efcffb"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/esp_controls/health.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/esp_controls/health.png",
+      "bytes": 1050,
+      "sha256": "f7f134ebb8280fcae47964c4630f1e6d305a1259cc1248811a109b87c7db3d52"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/esp_controls/highlight.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/esp_controls/highlight.png",
+      "bytes": 1050,
+      "sha256": "f7f134ebb8280fcae47964c4630f1e6d305a1259cc1248811a109b87c7db3d52"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/esp_controls/labels.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/esp_controls/labels.png",
+      "bytes": 961,
+      "sha256": "a2842fd6fdae027bc26339635f7e9201f8c29b74f33cd4b4f93a7d6b2af75b35"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/esp_controls/main.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/esp_controls/main.png",
+      "bytes": 1292,
+      "sha256": "c11891db3f98881684c4b55c0d497181895eda9ffe1b236d492787ccd97e49ca"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/esp_controls/offscreen.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/esp_controls/offscreen.png",
+      "bytes": 1502,
+      "sha256": "91144bb41b83c4b40cbafbe00bbd884bf2b6eb867cd13f7f99db33a44ce45756"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/esp_controls/performance.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/esp_controls/performance.png",
+      "bytes": 1173,
+      "sha256": "3e9cf1d74fe6a759fe7931ba66c58475dee9c97f6fdb1fe46b33035155989221"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/esp_controls/preview.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/esp_controls/preview.png",
+      "bytes": 1173,
+      "sha256": "3e9cf1d74fe6a759fe7931ba66c58475dee9c97f6fdb1fe46b33035155989221"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/esp_controls/previewControls.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/esp_controls/previewControls.png",
+      "bytes": 1603,
+      "sha256": "77bfda135e25b0187cd97bdd8762c36a304bb5a803c71c056377d95c3ab693e5"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/esp_controls/skeletonHead.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/esp_controls/skeletonHead.png",
+      "bytes": 1575,
+      "sha256": "8319fd460994e5a3b0070540a46ae0d51131eda3f2a219f9e8d44e26f0074c7f"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/esp_controls/teamCheck.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/esp_controls/teamCheck.png",
+      "bytes": 1447,
+      "sha256": "eafb07d79d1f8648dd35f271841c0e27390044c0988f020b64643d737596d469"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/esp_controls/visibility.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/esp_controls/visibility.png",
+      "bytes": 1325,
+      "sha256": "df4724d757f40a3bd619d89e4347233519334bbfebc90786989bb553e8132d97"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/home/live.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/home/live.png",
+      "bytes": 775,
+      "sha256": "a8b5bd264cc19b2f1c729877d6bd0934a85847e4d3a2baa41bbaa7a44aede2e1"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/home/quick.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/home/quick.png",
+      "bytes": 1548,
+      "sha256": "6ea705e72d29eeaa06d9f921eab0ba53262ed82f032cbaf3d4c44bc2b8822c3a"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/home/tools.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/home/tools.png",
+      "bytes": 1665,
+      "sha256": "df092b5cdb2f4c3a035252d64ad48468c998c27bab44ff5c39b80f0ead1f47e9"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/home/welcome.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/home/welcome.png",
+      "bytes": 1631,
+      "sha256": "04139ac83539d86c72944084d4f7752f2a61713821f69f040d81f654b0b45179"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/misc_controls/animationControls.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/misc_controls/animationControls.png",
+      "bytes": 1756,
+      "sha256": "7770db3256a08e931ea41a4a360d73ddc8250275f075c484a3627b8073ddb7eb"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/misc_controls/cameraView.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/misc_controls/cameraView.png",
+      "bytes": 1809,
+      "sha256": "0cd027ad8b094bd17a408517a05646b97848e4b6db358d683836f2604de8eee5"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/misc_controls/character.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/misc_controls/character.png",
+      "bytes": 1370,
+      "sha256": "2ea4e16cb9015b1d6d92954ea000835f38b21dd3318f7a360fe32eb2bf99059b"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/misc_controls/clickDetector.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/misc_controls/clickDetector.png",
+      "bytes": 1754,
+      "sha256": "ee71ad66f6d62d418b378be59b48a75204cd40b62c569253d84674e6a50336bd"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/misc_controls/combat.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/misc_controls/combat.png",
+      "bytes": 1370,
+      "sha256": "2ea4e16cb9015b1d6d92954ea000835f38b21dd3318f7a360fe32eb2bf99059b"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/misc_controls/freecam.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/misc_controls/freecam.png",
+      "bytes": 1002,
+      "sha256": "7ae4b9a80e731407f8d2697c7465d62d5f67a1fdb1378452d9cff9570f35a107"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/misc_controls/movement.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/misc_controls/movement.png",
+      "bytes": 1313,
+      "sha256": "213309803b41b796f9438f613c9d81aa3a2cafe793662df568f3d0caf39360f1"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/misc_controls/playerCollision.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/misc_controls/playerCollision.png",
+      "bytes": 1619,
+      "sha256": "1c4df6a766654a57b8ed45cfaa4d88e0fdc565f6d5ede8d9f1caa3e05f329157"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/misc_controls/proximityPrompt.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/misc_controls/proximityPrompt.png",
+      "bytes": 1218,
+      "sha256": "b0471356ac8d1150c73642757084bdd5bd1720dab3d059e5ceb5962741601af6"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/misc_controls/respawnUtility.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/misc_controls/respawnUtility.png",
+      "bytes": 1582,
+      "sha256": "eeed71d3cca95170e354ac298bcbfee7d04b38b11a932f3b7286e14caa38a06b"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/misc_controls/safety.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/misc_controls/safety.png",
+      "bytes": 1467,
+      "sha256": "096542f976df832c8044e68ba09d658587b7f029918419b3597c35a906c98eb4"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/misc_controls/server.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/misc_controls/server.png",
+      "bytes": 1467,
+      "sha256": "096542f976df832c8044e68ba09d658587b7f029918419b3597c35a906c98eb4"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/rtx_shader_controls/atmosphere.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/rtx_shader_controls/atmosphere.png",
+      "bytes": 1305,
+      "sha256": "40bb26b7525d208893156c9e9d5a41732b16a879fadee356f41ba5dff0140243"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/rtx_shader_controls/colorGrade.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/rtx_shader_controls/colorGrade.png",
+      "bytes": 1755,
+      "sha256": "640c8e32b5e56631f18e6a9c913adc564d8a1488740294c0b8a0611d1034523d"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/rtx_shader_controls/dynamicLights.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/rtx_shader_controls/dynamicLights.png",
+      "bytes": 1333,
+      "sha256": "adde211ee9be7233328c364a3607862f303df9b5ad29b0c43e553dc02955694b"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/rtx_shader_controls/lighting.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/rtx_shader_controls/lighting.png",
+      "bytes": 962,
+      "sha256": "c12a31b984ca05041d703a1340e7eeb23c50b41d8a5efb194f674045502527db"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/rtx_shader_controls/main.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/rtx_shader_controls/main.png",
+      "bytes": 1299,
+      "sha256": "02f92760bdabf9936b42a51168d16fc2db99c2295543c26ff84b6e9d8263aa0a"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/rtx_shader_controls/postEffects.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/rtx_shader_controls/postEffects.png",
+      "bytes": 1234,
+      "sha256": "3520bf4a294b934459789ba832015280b2839bd6504db0bc94e23b49baa0ae57"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/rtx_shader_controls/timeOfDay.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/rtx_shader_controls/timeOfDay.png",
+      "bytes": 1582,
+      "sha256": "2366cd00371434bc632d149b88f180024aa9b331ae65a49196cbf58d5ec2a5b4"
+    },
+    {
+      "path": "SH_Asset/Section_Item_Icon/rtx_shader_controls/worldMaterials.png",
+      "file": "assets/SH_Asset/Section_Item_Icon/rtx_shader_controls/worldMaterials.png",
+      "bytes": 1860,
+      "sha256": "4f1d1f27de9da9792e14987db0d5845f9fa99fd898f376563ad9ad93375a2d6d"
+    }
+  ]
+}
